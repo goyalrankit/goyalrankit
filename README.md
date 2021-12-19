@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @goyalrankit
-- 👀 I’m interested in WEB and MOBILE DEVELOPMENT
+- 👀 I’m Full Stack Developer 
 - 🌱 I’m currently learning Three JS
 - 📫 How to reach me ... https://www.linkedin.com/in/rankitgoyal/
 
